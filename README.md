@@ -1,7 +1,10 @@
 # COMP-1210-Projects
 By : Natalie Eichorn
+
 Auburn University, Fall 2017
+
 Projects were completed in COMP 1210 - Fundamentals of Computing I
+
 
 Project 1 : 
 
