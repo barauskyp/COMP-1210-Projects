@@ -23,3 +23,35 @@ Projects were completed in COMP 1210 - Fundamentals of Computing I
   ExpressionEvaluator : Uses the entered data (value) to evaluate the expression.  Also returns the number of digits to the left and right of the decimal. Finally, the program formats the answer.
 
   MoonTrip : Uses the entered data (ticket) to return the date of takeoff, the time, the seat number, what the ticket is for, the price (incuding the discount if available), and a random prize number.
+
+
+# Project 4 :
+  Spherocylinder : Uses user data to determine the circumference, surface area, and volume of a spherocylinder.
+  
+
+# Project 5 :
+  Spherocylinder (continued) : Implements functions to create a list of user created spherocylinders and to read data from a text file.
+
+
+# Project 6 :
+  Spherocylinder (continued) : Implements functions to manipulate the list of spherocylinders.  Includes menu feature to make user interaction simpler by using codes to call functions.
+  
+  
+# Project 7 :
+  Spherocylinder (continued) : Same spherocylinder program but with arrays instead of ArrayLists.
+  
+  
+# Project 8 :
+  Spherocylinder (continued) : Implements testing functions to reduce failure.
+
+
+# Project 9 :
+  Vehicles : Sets up classes and subclasses of different vehicles to determine their different tax rates.
+  
+  
+# Project 10 :
+  Vehicles (continued) : Calculates tax rates of different vehicles. Implements functions to read user data, generate reports, create new vehicles, and sort data.
+  
+  
+# Project 11 :
+  Vehicles (continued) : Implements test functions to reduce failure.
